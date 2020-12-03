@@ -1,0 +1,4 @@
+{
+    "port": "COM5",
+    "board": "esp32:esp32:esp32cam"
+}
